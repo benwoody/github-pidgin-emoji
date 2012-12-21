@@ -10,3 +10,5 @@ Copy the emoji directory to ~/purple/smileys
 In Pidgin:
 
 Tools > Preferences > Themes | Smiley Themes
+
+### Note that there are ~885 smileys so clicking on the Smiley button in chat might suck a little.
