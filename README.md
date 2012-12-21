@@ -2,6 +2,7 @@
 
 This is a theme set for Pidgin to add the Github emoticons to your smiley list!
 
+For a list and shortcuts of emoticons: http://www.emoji-cheat-sheet.com/
 ### Installation
 
 Download or Clone this repo.
