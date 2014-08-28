@@ -1,7 +1,7 @@
 Name=Github Emoji for Pidgin
 Description=Github Emoji for Pidgin
 Icon=octocat.png
-Author=Ben Woodall
+Author=Ben Woodall <benwoodall.com>; Ale <ale.incrowd.ws>
 #From http://www.emoji-cheat-sheet.com/
 
 [default]
