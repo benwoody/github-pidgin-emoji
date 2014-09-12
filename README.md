@@ -12,7 +12,7 @@ For a list and shortcuts of emoticons: http://www.emoji-cheat-sheet.com/
 #### Hard Way
 
 Download or Clone this repo.
-Copy the github-emoji directory to ~/purple/smileys
+Copy or symbolic link the github-emoji directory into ~/.purple/smileys/
 
 ### In Pidgin:
 
