@@ -14,6 +14,11 @@ For a list and shortcuts of emoticons: http://www.emoji-cheat-sheet.com/
 Download or Clone this repo.
 Copy or symbolic link the github-emoji directory into ~/.purple/smileys/
 
+     cd ~/.purple/smileys
+     ln -s ~/github-pidgin-emoji/github-emoji
+OR
+     ln -s ~/github-pidgin-emoji/github-emoji-big
+
 ### In Pidgin:
 
 Tools > Preferences > Themes | Smiley Themes
